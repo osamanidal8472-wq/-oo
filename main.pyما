@@ -1,0 +1,4 @@
+def main():
+print("Starting video automation system")
+if name == "main":
+main()
